@@ -5,8 +5,11 @@
 [Oo]bj/
 [Bb]uild
 [Ll]ibrary/
+bin_Data/
 sysinfo.txt
 *.stackdump
+*.pdb
+*.exe
  
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
